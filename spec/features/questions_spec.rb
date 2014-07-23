@@ -15,6 +15,6 @@ feature 'Manage questions' do
     fill_in 'Content', with: question.content
     click_button 'Submit'
     #TODO: Add expectations about a notice and url
-    expect(page).to have_content(question.title)
+    expect(page).to have_content('is this correct?'.)
   end
 end
