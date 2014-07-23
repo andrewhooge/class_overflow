@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails class_overflow-master: development" uuid="c2614b8f-4f01-4619-810c-983c12190361">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails class_overflow-master: test" uuid="e2d57dc4-9d3d-424d-8243-bffd979445c6">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails class_overflow-master: production" uuid="803a5540-3bf0-47eb-b7bc-84cc915d5a02">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
